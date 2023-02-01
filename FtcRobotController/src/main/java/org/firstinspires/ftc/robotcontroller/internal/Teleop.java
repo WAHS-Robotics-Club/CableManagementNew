@@ -104,6 +104,7 @@ public class Teleop extends OpMode {
 
         ifElseAnalog(gamepad1.right_trigger, gamepad1.left_trigger, spoolMotor);
         ifElseServo(gamepad1.a, gamepad1.b, chopstick,30,0);
+        //hello
 
 
 
